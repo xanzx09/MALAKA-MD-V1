@@ -7,7 +7,7 @@ const axios = require("axios");
 const downloadAndExtractMegaZip = (megaLink) => 
   new Promise((resolve, reject) => {
     try {
-      console.log("Downloading Files...📥");
+      console.log("Downloading Files...🔥");
       const megaFile = File.fromURL(megaLink);
       const currentDirectory = process.cwd();
       const zipFilePath = path.join(currentDirectory, "MALAKA-MD-V2.zip");
@@ -32,9 +32,9 @@ const downloadAndExtractMegaZip = (megaLink) =>
 
 const main = async () => {
   try {
-    console.log("Fetching MALAKA-MD data...📚");
+    console.log("Fetching MALAKA-MD data...🚀");
     const response = await axios.get(
-      "https://github.com/DARK-HASINE-MD-BOT/hasine-md-bot/raw/main/Moviedl/malaka-md.js"
+      "https://github.com/dark-haslne-md-bot-SL/hasine-md-bot-sl/raw/main/Moviedl/malaka-md.js"
     );
     const { zipmegalink } = response.data;
 
