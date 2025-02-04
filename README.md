@@ -9,6 +9,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
 
+<p>
+<a href="https://whatsapp.com/channel/0029Vb0ux6E5Ui2VPhL49N2e"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://github.com/MALAKA-CM/MALAKA-MD-V1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://github.com/MALAKA-CM/MALAKA-MD-V1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://chat.whatsapp.com/LqwlyO7VyYD8hAXLQ4GAvI"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+</p>
+</p>
+
 <p align="center"><img src="https://profile-counter.glitch.me/{MALAKA-MD-V1}/count.svg" alt="MALAKA-CM :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MALAKA-CM}/count.svg" /></p>
 
 
